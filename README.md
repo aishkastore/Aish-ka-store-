@@ -16,7 +16,7 @@
 <body>
 
 <header>
-  <h1>DecoGlow</h1>
+  <h1>Aish KA Store</h1
   <nav>
     <a href="#">Home</a> |
     <a href="#">Shop</a> |
@@ -32,13 +32,13 @@
   <div class="product">
     <img src="felt-letter-board.jpg" alt="Felt Letter Board" width="100%">
     <h3>Felt Letter Board</h3>
-    <p>$15.99</p>
+    <p>RS 2599</p>
     <button>Add to Cart</button>
   </div>
   <div class="product">
     <img src="curtain-lights.jpg" alt="Curtain Lights" width="100%">
     <h3>Curtain Lights</h3>
-    <p>$24.99</p>
+    <p>RS 2299</p>
     <button>Add to Cart</button>
   </div>
 </section>
